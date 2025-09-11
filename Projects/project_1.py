@@ -7,9 +7,19 @@ print(" ")
 print("~~~~~~~~~~~~~~~~~~~~")
 print(" ")
 household_object = input("What's a common household object? ")
-number_1 = input("What's a number between 1-10? ")
-number_2 = input("What's another number, between 1-5? ")
+number_1 = input("What's a number between 3-10 [NO DECIMALS]? ")
+number_2 = input("What's another number, between 1-3 [NO DECIMALS]? ")
+
 print(" ")
+
 color = input("What's your favorite color? ")
-sport = input("What's your favorite sport? ")
+sport_ball = input("What's your favorite sport ball [ex. soccer ball]? ")
 language = input("Give me a common language. ")
+
+print(" ")
+print("Almost done!")
+print(" ")
+
+common_pet = input("What's a common pet? ")
+adjective = input("Now, what's a adjective (word that describes things)? ")
+word = input("Favorite way to say yes. ")
