@@ -27,4 +27,12 @@ print("\n\n")
                                                                                           
                                   
 print("Now it's your turn:")
-print("Find this line (line 30) in the welcome_to_ct8.py file, then change the message to say a fact about you.")                                  
+print("My name isn't actually onionbe lol")   
+
+
+print("Please work hahhahahhaha")
+print("coding is hard but it'll be ok")
+
+age = input("\nwrite your age\n")
+
+print(f"you are {age} years old")
