@@ -1,4 +1,4 @@
-print("HAPPY-LIBS #1")
+print("WELCOME TO HAPPY-LIBS")
 print("~~~~~~~~~~~~~~~~~~~~")
 print("Today, we're  going to be making a story!")
 input("Press 'Enter' when you're ready.")
@@ -21,5 +21,46 @@ print("Almost done!")
 print(" ")
 
 common_pet = input("What's a common pet? ")
-adjective = input("Now, what's a adjective (word that describes things)? ")
-word = input("Favorite way to say yes. ")
+adjective = input("Now, what's an adjective (word that describes things)? ")
+word = input("Favorite way to say 'yes!!!' . ")
+
+print(" ")
+print("Awesome! You've finished your part in making our story!")
+input("Now, with the words you've chosen, you can enjoy a good laugh!")
+print(" ")
+print("~~~~~~~~~~~~~~~~~~~~")
+print(" ")
+
+print(f"You want to play a game, but you can't seem to find your {sport_ball}.")
+print(f"Instead of playing with your lost {sport_ball}, you decide to make up your own game.")
+input(" ")
+print(f"You find an old {household_object}. Its quite {adjective}.")
+input(" ")
+print(f"You've decided a few rules like how people can only wear {color} clothing while playing.")
+print(f"As well as how many can play, {number_1} maximum and {number_2} minimum.")
+input(" ")
+print(f"Additionally, if theres a {common_pet} in the house, they can join in on the fun!")
+input(f"If players want an extra challenge, they can only speak {language} while playing the game!")
+print(f"Lastly, if you score a point everyone on your team yells '{word}'!!")
+
+input(" ")
+
+name = input("What an awesome story!! What would you like to name your new game?")
+print(f"{name}")
+input("I like it!!")
+
+print(" ")
+print(" ")
+
+print(r" ███████████ █████                           █████         █████ █████                     ███")
+print(r"▒█▒▒▒███▒▒▒█▒▒███                           ▒▒███         ▒▒███ ▒▒███                     ▒███")
+print(r"▒   ▒███  ▒  ▒███████    ██████   ████████   ▒███ █████    ▒▒███ ███    ██████  █████ ████▒███")
+print(r"    ▒███     ▒███▒▒███  ▒▒▒▒▒███ ▒▒███▒▒███  ▒███▒▒███      ▒▒█████    ███▒▒███▒▒███ ▒███ ▒███")
+print(r"    ▒███     ▒███ ▒███   ███████  ▒███ ▒███  ▒██████▒        ▒▒███    ▒███ ▒███ ▒███ ▒███ ▒███")
+print(r"    ▒███     ▒███ ▒███  ███▒▒███  ▒███ ▒███  ▒███▒▒███        ▒███    ▒███ ▒███ ▒███ ▒███ ▒▒▒ ")
+print(r"    █████    ████ █████▒▒████████ ████ █████ ████ █████       █████   ▒▒██████  ▒▒████████ ███")
+print(r"  ▒▒▒▒▒    ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒     ▒▒▒▒▒▒    ▒▒▒▒▒▒▒▒ ▒▒▒ ")
+                                                                                              
+print(r"                                                        -onionbe [Maya]")
+                                                                                              
+                                                                                              
