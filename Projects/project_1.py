@@ -1,3 +1,9 @@
+print(" ")
+print(r" ___   ___   ___   ___   ___   ___   ___   ___   ___   ___   ")
+print(r"(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)  ")
+print(r"    (_)   (_)   (_)   (_)   (_)   (_)   (_)   (_)   (_)      ")
+print(" ")
+
 print(r" _    _ _____ _     _____ ________  ___ _____   _____ _____   _   _   ___  ______________   __     _     ___________  _____ ")
 print(r"| |  | |  ___| |   /  __ \  _  |  \/  ||  ___| |_   _|  _  | | | | | / _ \ | ___ \ ___ \ \ / /    | |   |_   _| ___ \/  ___|")
 print(r"| |  | | |__ | |   | /  \/ | | | .  . || |__     | | | | | | | |_| |/ /_\ \| |_/ / |_/ /\ V /_____| |     | | | |_/ /\ `--. ")
@@ -6,12 +12,18 @@ print(r"\  /\  / |___| |___| \__/\ \_/ / |  | || |___    | | \ \_/ / | | | || | 
 print(r" \/  \/\____/\_____/\____/\___/\_|  |_/\____/    \_/  \___/  \_| |_/\_| |_/\_|   \_|     \_/      \_____/\___/\____/ \____/ ")
                                                                                                                             
                                                                                                                             
-print("~~~~~~~~~~~~~~~~~~~~")
+print(" ")
+print(r" ___   ___   ___   ___   ___   ___   ___   ___   ___   ___   ")
+print(r"(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)  ")
+print(r"    (_)   (_)   (_)   (_)   (_)   (_)   (_)   (_)   (_)      ")
+print(" ")
 print("Today, we're  going to be making a story!")
 input("Press 'Enter' when you're ready.")
 
 print(" ")
-print("~~~~~~~~~~~~~~~~~~~~")
+print(r" ___   ___   ___   ___   ___   ___   ___   ___   ___   ___   ")
+print(r"(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)  ")
+print(r"    (_)   (_)   (_)   (_)   (_)   (_)   (_)   (_)   (_)      ")
 print(" ")
 household_object = input("What's a common household object? ")
 number_1 = input("What's a number between 3-10 [NO DECIMALS]? ")
@@ -29,13 +41,15 @@ print(" ")
 
 common_pet = input("What's a common pet? ")
 adjective = input("Now, what's an adjective (word that describes things)? ")
-word = input("Favorite way to say 'yes!!!' . ")
+word = input("Favorite way to say 'yayy!!!' . ")
 
 print(" ")
 print("Awesome! You've finished your part in making our story!")
 input("Now, with the words you've chosen, you can enjoy a good laugh!")
 print(" ")
-print("~~~~~~~~~~~~~~~~~~~~")
+print(r" ___   ___   ___   ___   ___   ___   ___   ___   ___   ___   ")
+print(r"(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)  ")
+print(r"    (_)   (_)   (_)   (_)   (_)   (_)   (_)   (_)   (_)      ")
 print(" ")
 
 print(f"You want to play a game, but you can't seem to find your {sport_ball}.")
@@ -52,11 +66,14 @@ print(f"Lastly, if you score a point everyone on your team yells '{word}'!!")
 
 input(" ")
 
-name = input("What an awesome story!! What would you like to name your new game?")
+name = input("What an awesome story!! What would you like to name your new game? ")
 print(f"{name}")
 input("I like it!!")
 
 print(" ")
+print(r" ___   ___   ___   ___   ___   ___   ___   ___   ___   ___   ")
+print(r"(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)_(___)  ")
+print(r"    (_)   (_)   (_)   (_)   (_)   (_)   (_)   (_)   (_)      ")
 print(" ")
 
 print(r" ███████████ █████                           █████         █████ █████                     ███")
