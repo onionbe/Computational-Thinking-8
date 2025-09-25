@@ -35,4 +35,4 @@ print("coding is hard but it'll be ok")
 
 age = input("\nwrite your age\n")
 
-print(f"you are {age} years old")
+print(f"Wow! You're {age}? Cool!")
