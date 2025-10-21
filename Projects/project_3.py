@@ -81,7 +81,7 @@ message1.color("royal blue")
 message1.write("Maya Lesso",font = ("Times New Roman", 30, "normal"))
 message1.hideturtle()
 
-# this is my text that chose my 2 favorite things form my coat of arms
+# this is my text that chose my 2 favorite things from my coat of arms
 message2 = create_sprite("flower2", -200, -250)
 message2.color("hotpink")
 message2.write("Artist and Soccer Player!",font = ("Times New Roman", 30, "normal"))
