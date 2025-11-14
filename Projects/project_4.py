@@ -22,7 +22,7 @@ t2.speed(10)
 
 # changed color so that theres blue in mine
 # also, I made it larger
-color = ["purple", "chartreuse"]
+color = ["lightcyan", "lightseagreen"]
 for i in range(1000):
     t1.color(color[i % 2])
     t1.forward(246)

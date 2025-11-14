@@ -13,9 +13,8 @@ print("Please type in a 5 letter word for each guess, all in lower case. Good Lu
 for i in range(6):
     # Guess a word
     guess_word = input()
-    len(guess_word) == 5
     output = ""
-
+    
     # First letter (in python, counting starts at 0 not 1)
     if guess_word[0] == hidden_word[0]:
         output += "🟩"
